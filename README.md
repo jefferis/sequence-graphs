@@ -8,7 +8,7 @@ The correct way to install and run the sequence graph tools is through Docker. [
 
 Assuming you have Docker installed and configured to allow your user to run containers, do:
 
-````
+```
 docker run -ti adamnovak/sequence-graphs:v0.01
 ```
 
